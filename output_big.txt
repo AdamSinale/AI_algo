@@ -1,0 +1,14 @@
+0.90000,4592,18042
+0.30000,4580,18039
+0.10000,4508,18588
+ERROR: Invalid query format
+0.35968,4592,18042
+0.35968,2486,2602
+0.35968,296,256
+0.32306,2252,9588
+0.32306,824,912
+0.32306,220,266
+ERROR: Invalid query format
+ERROR: Invalid query format
+ERROR: Invalid query format
+ERROR: Invalid query format
