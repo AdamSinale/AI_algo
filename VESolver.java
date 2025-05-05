@@ -33,8 +33,8 @@ public interface VESolver {
                 for (int i = 1; i < toCombine.size(); i++) {
                     product = product.multiply(toCombine.get(i));
                 }
-                Factor summed = product.sumOut(varToEliminate);
-                factors.add(summed);
+                product = product.sumOut(varToEliminate);
+                factors.add(product);
             }
         }
 
